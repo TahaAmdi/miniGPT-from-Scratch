@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+GPT_First_Try_Scratch.ipynb
+GPT_Second_Try_Scratch.ipynb
+4.66
+model_and_optimizer.pth
+gpt2/
+gpt2/124M/
