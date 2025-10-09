@@ -1,6 +1,6 @@
 # 🧠 GPT From Scratch — Educational Implementation
 
-This repository walks through the **complete pipeline of building a GPT-style Transformer language model from scratch**, using **PyTorch** and **tiktoken**.  
+This repository walks through the **complete pipeline of building a GPT-style Transformer language model from scratch**,using **PyTorch** and **tiktoken**.  
 It’s designed for educational and research purposes — demonstrating how modern LLMs like GPT-2 are structured and trained, step by step.
 
 ---
@@ -172,3 +172,4 @@ Exploring the internals of modern LLMs through from-scratch implementation.
 
 This project is open for educational and research use.  
 Attribution is appreciated if used in tutorials, projects, or papers.
+
